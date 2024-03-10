@@ -5,7 +5,7 @@
 `.odp` Impress Presentation  
 `.odg` Draw Drawing  
 
-# Execute Macro inside Generated Document
+# Malicious Macro Executor LibreOffice/OpenOffice
 
 > Python Package: uno (Universal Network Objects) is typically associated with macro programming and automation tasks for LibreOffice or OpenOffice. It is an API (Application Programming Interface) provided by LibreOffice and OpenOffice that allows the use of various programming languages, including Python, to control the functionalities of these office suites.
 >
